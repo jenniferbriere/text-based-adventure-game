@@ -1,1 +1,1 @@
-python3 text-based-adventure-game.py
+web: python3 text-based-adventure-game.py
