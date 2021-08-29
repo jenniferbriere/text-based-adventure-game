@@ -1,1 +1,2 @@
-web: python3 text-based-adventure-game.py
+web: python text-based-adventure-game.py
+worker: python text-based-adventure-game.py
