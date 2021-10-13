@@ -16,6 +16,5 @@ After you install Python
 
 1. Download this repository.
 2. Unzip the file.
-3. Navigate to the main folder of this repository (usually in downloads/text-based-adventure-game).
-4. Double click on 'text-based-adventure-game.py' this should open a command line and start the game, or from the command line enter 'python3 text-based-adventure-game.py'.
-5. Enter 'n' to get past the screen asking you to load a saved game.
+3. From the command line, navigate to the main folder of this repository and run 'python3 text-based-adventure-game.py'.
+4. If this is your first time playing, enter 'n' to get past the screen asking you to load a saved game.
